@@ -1,4 +1,4 @@
-# # 📘 Azure Test Plans with Azure Pipelines — Full Step-by-Step Project Guide
+# 📘 Azure Test Plans with Azure Pipelines — Full Step-by-Step Project Guide
 
 ---
 
